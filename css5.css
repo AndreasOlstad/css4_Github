@@ -1,0 +1,20 @@
+body {
+    background-image: url(./old\ trafford.jpg);
+    background-size: cover;
+}
+.tekst {
+    background-color:black;
+    color: white;
+    width: 250px;
+    height: 120px;
+    position: absolute;
+    left: 1000px;
+    top: 500px;
+    text-align: center;
+    border-radius: 15px;
+    opacity: 90%;
+}
+.tekst:hover {
+    background-color: white;
+    color: black;
+}
